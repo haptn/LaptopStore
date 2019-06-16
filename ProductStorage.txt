@@ -1,0 +1,7 @@
+   Product		    Price		    Feature			Quantity
+1. Inspiron 		10.000.000 VND	 	Red, blue, black		   10
+2. Inspiron Duo		15.000.000 VND		Blue, Black			   10
+3. XPS			20.000.000 VND	     	Gold-rose, Silver, Black	   10
+4. Vostro		13.000.000 VND	       	Gold, Silver, Black		   10
+5. Latitude		20.000.000 VND	     	Silver, Black			   10
+6. Alienware		26.000.000 VND	     	Light’s Color: Red, Blue	   10

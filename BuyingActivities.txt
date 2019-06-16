@@ -1,0 +1,70 @@
+An | Inspiron | RAM 4 GB, Black, 15 inches | 03/02/2018
+
+Binh | Inspiron Duo | RAM 8 GB, Blue, 13 inches | 07/02/2018
+
+Cuong | Vostro | RAM 4 GB, Gold, 21 inches | 10/02/2018
+
+Dinh | XPS | RAM 8 GB, Silver, 16 inches | 27/02/2018
+Dinh | Alienware | Red, RAM 16 GB, 24 inches | 19/02/2018
+
+Giang | Inspiron | RAM 8 GB, Red, 15 inches | 13/02/2018
+
+Hung | Inspiron Duo | RAM 8 GB, Blue, 13 inches | 22/02/2018
+    
+Kien | Latitude | RAM 8 GB, Silver, 15 inches | 11/02/2018
+Kien |  Alienware | Blue, RAM 16 GB, 20 inches | 09/02/2018
+
+Linh | Vostro | RAM 4 GB, Gold, 18 inches | 10/02/2018
+
+Minh | Inspiron | RAM 8 GB, Blue, 12 inches | 15/02/2018
+
+Nhan | Inspiron | RAM 4 GB, Red, 17 inches | 03/02/2018
+
+Oanh | Inspiron | RAM 2 GB, Black, 15 inches | 23/02/2018
+
+Phu | Alienware | RAM 16 GB, Blue, 23 inches | 09/02/2018
+
+Quynh | Latitude | RAM 8 GB, Silver, 18 inches | 11/02/2018
+Quynh | Vostro | RAM 4 GB, Gold, 18 inches | 10/02/2018
+ 
+a | a | Business | Vostro | 
+ 
+a | a | 
+ 
+2 | 2 | Business | Vostro | 
+ 
+a | a | Business | Vostro | 
+ 
+a | a | Gaming | Alienware | 
+ 
+a | a | Gaming | Alienware | 
+ 
+a | a | Ordinary | XPS | 
+ 
+2 | a | Business | Latitude | 
+ 
+a | a | Business | Vostro | 
+ 
+a | a | Business | Vostro | 
+ 
+Ha | 0123 | 
+ 
+Ha | 0123 | 
+ 
+Ha | 012 | Business | Vostro | RAM 8GB, Red | 
+Ha | 012 | Business | Business | Vostro | 
+ 
+Ha | 0123 | Ordinary | 
+ 
+Ha | 012 | 
+ 
+Ha | 012 | Business | 
+ 
+Ha | abc | 
+ 
+Ha | 1 | Gaming | Alienware | abc | 
+ 
+Ha | 0123sdv | 
+ 
+Ha | 1 | Ordinary | Inspiron Duo | red | 
+Ha | 1 | Gaming | Gaming | Alienware | 
